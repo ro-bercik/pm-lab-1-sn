@@ -1,0 +1,47 @@
+https://savannah.nongnu.org/patch/?group=avrdude
+
+https://savannah.nongnu.org/patch/?9867  -  30 Oct 2019 12:12:43 PM  AVRDUDE.CONF
+
+https://savannah.nongnu.org/patch/?9816  +  14 Jun 2019 06:30:19 PM  Implement new programmer type: linuxspi
+
+https://savannah.nongnu.org/patch/?9811  +  02 Jun 2019 07:42:23 PM  ATmega328pb has efuse bit 3
+
+https://savannah.nongnu.org/patch/?9757  +  22 Feb 2019 04:55:14 PM  Fix ATtiny817 Xplained Mini programmer
+
+https://savannah.nongnu.org/patch/?9744  +  09 Jan 2019 06:51:25 AM  Patch for ATMega324A support
+
+https://savannah.nongnu.org/patch/?9732  +  08 Dec 2018 04:10:04 AM  usbtiny_paged_load overflows buffer e.g. when reading EEPROM
+
+https://savannah.nongnu.org/patch/?9697  +  07 Oct 2018 10:47:19 PM  Add iseavrprog support
+
+https://savannah.nongnu.org/patch/?9573  +  22 Feb 2018 10:16:28 AM  patch to add atmelice avr32 programming support to avrdude # bug #43178
+
+https://savannah.nongnu.org/patch/?9563  +  10 Feb 2018 04:38:09 PM  New feature: ability to reset FLIPv2 targets
+
+https://savannah.nongnu.org/patch/?9327  +  04 May 2017 11:10:34 PM  ft245r.c: add TPI support (patches 1-4) !! Przyjrzeć się temu
+https://savannah.nongnu.org/patch/?9328  +  04 May 2017 11:13:06 PM  ft245r.c: add TPI support (patches 5-7) !!
+
+https://savannah.nongnu.org/patch/?9320  +  27 Apr 2017 05:05:49 PM  fix TPI RESET in bitbang.c
+
+ https://savannah.nongnu.org/patch/?9319  +  27 Apr 2017 04:46:26 AM  Add async bitbang FTDI driver with TPI support ! Przyjrzeć się temu
+
+https://savannah.nongnu.org/patch/?9315  +  25 Apr 2017 07:42:28 AM  Add PRUSS programmer type for xmega pdi
+
+https://savannah.nongnu.org/patch/?9253  +  09 Feb 2017 04:47:55 PM  Fix for giving terminal_mode commands more than 20 arguments
+
+https://savannah.nongnu.org/patch/?9127  +  30 Sep 2016 05:03:34 PM  Support for CH341A programmer.
+
+ https://savannah.nongnu.org/patch/?9123  +  19 Sep 2016 06:43:32 PM  ftdi_syncbb: use FT245R_CYCLES in ft245r_set_bitclock()
+
+https://savannah.nongnu.org/patch/?9122  +  19 Sep 2016 06:30:40 PM  Fixed MISO sampling in ftdi_syncbb
+
+ https://savannah.nongnu.org/patch/?9079  +  10 Aug 2016 11:22:07 AM  Fix ftdi_syncbb teardown # patch #8419
+
+https://savannah.nongnu.org/patch/?9004  +  16 May 2016 12:22:03 AM  DTR auto-reset does not work with Arduino Pro Mini # bug #46005
+
+https://savannah.nongnu.org/patch/?8967  +  04 Apr 2016 12:15:05 PM  Change ft2xx library to ftdi_syncbb instead of libusb !! użyty patch do ftdi !!
+
+https://savannah.nongnu.org/patch/?8957  +  27 Mar 2016 01:06:34 AM  Allow reading prodsig memory from stk500v2 on xmega devices 
+
+https://savannah.nongnu.org/patch/?8923  +  27 Feb 2016 08:20:43 PM  Enable TPI for linuxgpio
+
