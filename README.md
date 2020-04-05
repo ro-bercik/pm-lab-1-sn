@@ -8,7 +8,7 @@ Data:   03.04.2020 r.
 # Informacje o studencie
 Imię i nazwisko studenta:   Bercik  
 Numer albumu:               99999  
-Grupa studencka:            WEL2000
+Grupa studencka:            WEL2000 
 Testowa zmiana do gitk      123456 
 
 # Pytania do zadań z instrukcji
